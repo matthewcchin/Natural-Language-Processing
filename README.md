@@ -1,4 +1,4 @@
-# 📚 Text Analytics Projects Repository
+# 📚 Natural Langauge Processing Repository
 
 Welcome to this collection of projects exploring **Text Analytics and Natural Language Processing (NLP)**. Each project demonstrates different techniques and approaches for working with text data, from sentiment classification to entity extraction.
 
